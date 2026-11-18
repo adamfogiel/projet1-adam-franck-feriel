@@ -1,0 +1,11 @@
+{
+  "jeu": "produits",
+  "dataset_id": "rappelconso-v2-gtin-trie",
+  "url_source": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/rappelconso-v2-gtin-trie/exports/parquet",
+  "page_producteur": "https://data.economie.gouv.fr/explore/dataset/rappelconso-v2-gtin-trie",
+  "producteurs": "DGCCRF, DGAL, DGEC, DGPR",
+  "licence": "Licence Ouverte Etalab 2.0",
+  "date_telechargement": "2026-11-18T13:17:21+00:00",
+  "lignes_annoncees_par_api": 19021,
+  "octets": 4574723
+}
