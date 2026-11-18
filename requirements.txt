@@ -1,0 +1,9 @@
+# Socle imposé par le cahier des charges (ET-01 à ET-03).
+# Versions figées : un tiers qui clone doit obtenir le même environnement.
+pandas==2.2.3
+pyarrow==18.1.0
+matplotlib==3.9.2
+seaborn==0.13.2
+streamlit==1.40.2
+jupyter==1.1.1
+ruff==0.8.4

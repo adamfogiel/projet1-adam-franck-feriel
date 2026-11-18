@@ -1,0 +1,19 @@
+# Données brutes et nettoyées : jamais versionnées (GIT-04).
+# Elles se reconstruisent avec `python src/download.py`.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+# Les manifestes de téléchargement sont versionnés : ils tracent la source,
+# la date et la version utilisées, ce qui est exigé par la Licence Ouverte.
+!data/raw/*.manifeste.json
+
+# Environnement
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
