@@ -35,6 +35,13 @@ La date exacte de téléchargement et le nombre de lignes obtenu sont écrits pa
 <https://github.com/adamfogiel/projet1-adam-franck-feriel> (public, branche
 `main`).
 
+## Contribuer
+
+`main` est protégée : toute modification passe par une pull request relue par un
+autre membre. Le circuit, les conventions de nommage de branche et la
+répartition des fichiers par propriétaire sont dans
+[CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Installation
 
 ```bash
@@ -80,7 +87,7 @@ sont connues dès le départ :
 | Membre | Rôle S47 | Rôle S50 | GitHub |
 | --- | --- | --- | --- |
 | Adam | Chef de projet, restitution | Chef de projet, dépôt | @adamfogiel |
-| Franck | Données | Restitution | à compléter |
-| Feriel | Dépôt | Données | à compléter |
+| Franck | Données | Restitution | @franksamba-data |
+| Feriel | Dépôt | Données | @feriel-web |
 
 Le détail de la répartition est dans [docs/decisions.md](docs/decisions.md).
