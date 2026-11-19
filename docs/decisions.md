@@ -68,6 +68,23 @@ les versions du `requirements.txt`. La seconde impose de revalider que tout le
 monde obtient les mêmes résultats — à ne faire que si nécessaire, et à tracer
 ici.
 
+## 2026-11-19 — Dépôt public créé et `main` protégée
+
+Dépôt : <https://github.com/adamfogiel/projet1-adam-franck-feriel>, public
+(GIT-01).
+
+La branche `main` exige une pull request avec une approbation d'un autre membre,
+refuse les poussées forcées et la suppression de branche, et impose la
+résolution des commentaires avant fusion. La restriction s'applique aux
+administrateurs : une tentative de poussée directe par le propriétaire a été
+rejetée (`protected branch hook declined`).
+
+Conséquence assumée : plus aucun changement ne peut entrer dans `main` avant que
+Franck et Feriel soient collaborateurs, puisqu'une PR ne s'auto-approuve pas.
+C'est le prix de la preuve demandée par GIT-02 et GIT-03.
+
+Le circuit est écrit dans [CONTRIBUTING.md](../CONTRIBUTING.md).
+
 ---
 
 ## À trancher cette semaine

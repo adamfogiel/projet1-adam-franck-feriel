@@ -35,6 +35,13 @@ La date exacte de téléchargement et le nombre de lignes obtenu sont écrits pa
 <https://github.com/adamfogiel/projet1-adam-franck-feriel> (public, branche
 `main`).
 
+## Contribuer
+
+`main` est protégée : toute modification passe par une pull request relue par un
+autre membre. Le circuit, les conventions de nommage de branche et la
+répartition des fichiers par propriétaire sont dans
+[CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Installation
 
 ```bash
