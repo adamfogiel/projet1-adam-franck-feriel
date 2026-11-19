@@ -30,9 +30,16 @@ répondre (EF-01).
 La date exacte de téléchargement et le nombre de lignes obtenu sont écrits par
 `src/download.py` dans `data/raw/*.manifeste.json`, versionnés dans le dépôt.
 
+## Dépôt
+
+<https://github.com/adamfogiel/projet1-adam-franck-feriel> (public, branche
+`main`).
+
 ## Installation
 
 ```bash
+git clone https://github.com/adamfogiel/projet1-adam-franck-feriel.git
+cd projet1-adam-franck-feriel
 python3.11 -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
@@ -72,7 +79,7 @@ sont connues dès le départ :
 
 | Membre | Rôle S47 | Rôle S50 | GitHub |
 | --- | --- | --- | --- |
-| Adam | Chef de projet, restitution | Chef de projet, dépôt | à compléter |
+| Adam | Chef de projet, restitution | Chef de projet, dépôt | @adamfogiel |
 | Franck | Données | Restitution | à compléter |
 | Feriel | Dépôt | Données | à compléter |
 
