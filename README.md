@@ -3,7 +3,8 @@
 ## Contexte
 
 Commanditaire : association de défense des consommateurs (sujet 5, annexe A du
-cahier des charges CDC-DIA2-UE01-2026).
+cahier des charges CDC-DIA2-UE01-2026, versionné dans
+[docs/cahier-des-charges.pdf](docs/cahier-des-charges.pdf)).
 
 Besoin exprimé : « Nous voulons publier un état des lieux des rappels de
 produits : quelles familles de produits, quels risques, quelles marques
