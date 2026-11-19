@@ -85,6 +85,28 @@ C'est le prix de la preuve demandée par GIT-02 et GIT-03.
 
 Le circuit est écrit dans [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+Franck (`@franksamba-data`) a accepté son invitation le 19/11. Feriel
+(`@feriel-web`) est invitée, acceptation en attente.
+
+## 2026-11-19 — Le cahier des charges n'est pas publié sans accord
+
+Le cahier des charges a été ajouté à `docs/` sur une branche, mais la PR est
+passée en brouillon et n'est pas fusionnée.
+
+Motif : le dépôt est public (GIT-01), et le cahier des charges est le document
+du CESI, dont nous sommes destinataires et non auteurs. Le fusionner le rendrait
+accessible publiquement et indexable. Un commit entré dans l'historique d'un
+dépôt public ne s'en retire pas réellement, donc la décision se prend avant la
+fusion, pas après.
+
+Demande d'autorisation envoyée à l'intervenant le 19/11, dans le même message
+que le signalement de l'écart au jalon J3 et la demande de son identifiant
+GitHub.
+
+Deux suites : accord, la PR est relue et fusionnée ; refus ou absence de
+réponse, la PR est fermée et le README ne garde que la référence
+`CDC-DIA2-UE01-2026`.
+
 ---
 
 ## À trancher cette semaine
@@ -100,4 +122,7 @@ Le circuit est écrit dans [CONTRIBUTING.md](../CONTRIBUTING.md).
 - [ ] **Méthode de regroupement de `marque_produit`** — voir Q4. La source
       étant déjà en minuscules, il s'agit d'un regroupement manuel sur les
       marques les plus fréquentes, pas d'une normalisation automatique.
-- [ ] **Identifiants GitHub des trois membres** à reporter dans le README.
+- [ ] **Réponse de l'intervenant** sur la publication du cahier des charges, à
+      archiver dans `docs/` puis à conclure en fermant ou en fusionnant la PR 2.
+- [ ] **Identifiant GitHub de l'intervenant**, à ajouter en lecture sur le
+      dépôt.

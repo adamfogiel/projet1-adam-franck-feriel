@@ -87,7 +87,7 @@ sont connues dès le départ :
 | Membre | Rôle S47 | Rôle S50 | GitHub |
 | --- | --- | --- | --- |
 | Adam | Chef de projet, restitution | Chef de projet, dépôt | @adamfogiel |
-| Franck | Données | Restitution | à compléter |
-| Feriel | Dépôt | Données | à compléter |
+| Franck | Données | Restitution | @franksamba-data |
+| Feriel | Dépôt | Données | @feriel-web |
 
 Le détail de la répartition est dans [docs/decisions.md](docs/decisions.md).
